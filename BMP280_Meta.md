@@ -1,9 +1,9 @@
 BMP280.csv
 
-This file contains readings from a BMP280	
+This file contains readings from a BMP280, comma delimited
+First column: T (°C)
+Second column: P (Pa)
 
-Start	2018,2,15,14,28,34						
-End	2018,2,15,14,29,5,		
 Total 10,000 samples, recorded indoors on 15FEB2018, between 14h28m34s and 14h29m05s UT
 
 First 681 records removed, due to presence of NANs			
